@@ -10,6 +10,7 @@ leadintrading.com 聚焦医疗健康、医生与医疗服务信息，持续更�
 - [商业服务信息站 · logintogether.com](https://logintogether.com/)
 - [医疗健康信息站 · leadintrading.com](https://leadintrading.com/)
 - [图灵可信&优选 · 言中 AI](https://www.yanzhongai.com/trusted-choice-certification.html#featured-content)
+- [超级精选 · goodbusiness.cloud](https://goodbusiness.cloud/)
 
 ## 客户与最新文章
 
