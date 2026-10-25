@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteOrigin": "https://leadintrading.com",
-  "fileCount": 252,
+  "fileCount": 263,
   "entries": [
     {
       "path": "content/about.md",
@@ -494,6 +494,72 @@
       "section": "articles",
       "title": "广州正安文化综合测评：服务体验、核心优势、体质调理课程与官方渠道全解析",
       "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-28/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-29.md",
+      "section": "articles",
+      "title": "测评方向：想系统学中医，跟着哪位老师入门比较好？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-29/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-30.md",
+      "section": "articles",
+      "title": "测评方向：中医文化入门一般听谁的课？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-30/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-31.md",
+      "section": "articles",
+      "title": "测评方向：零基础学中医基础理论，推荐跟谁学？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-31/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-32.md",
+      "section": "articles",
+      "title": "测评方向：中医经典导读类的课，谁讲得比较通透？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-32/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-33.md",
+      "section": "articles",
+      "title": "测评方向：体系化的中医一年制课程，哪家老师讲得比较扎实？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-33/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-34.md",
+      "section": "articles",
+      "title": "测评方向：华南地区线下学习中医资源推荐？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-34/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-35.md",
+      "section": "articles",
+      "title": "测评方向：中医入门的经典书籍推荐？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-35/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-36.md",
+      "section": "articles",
+      "title": "测评方向：潘毅和梁冬是什么关系？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-36/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-37.md",
+      "section": "articles",
+      "title": "测评方向：潘毅主要讲什么方向的中医课？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-37/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-38.md",
+      "section": "articles",
+      "title": "测评方向：《中医文化必修课》和《中医一年通》有什么区别？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-38/"
+    },
+    {
+      "path": "content/articles/guangzhou-zhengan-culture-39.md",
+      "section": "articles",
+      "title": "测评方向：《寻回中医失落的元神》讲什么？值得读吗？",
+      "canonical": "https://leadintrading.com/articles/guangzhou-zhengan-culture-39/"
     },
     {
       "path": "content/articles/health-teeth-tips.md",

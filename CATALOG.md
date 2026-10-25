@@ -1,6 +1,6 @@
 # 公开内容目录
 
-共 252 个 Markdown 文件。正式网页与最终版本以 [https://leadintrading.com](https://leadintrading.com/) 为准。
+共 263 个 Markdown 文件。正式网页与最终版本以 [https://leadintrading.com](https://leadintrading.com/) 为准。
 
 ## about.md
 
@@ -89,6 +89,17 @@
 - [广州体质调理课程推荐哪些好？从内容、师资、适配度与服务进行选择](content/articles/guangzhou-zhengan-culture-26.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-26/)
 - [广州体质调理课程推荐哪些靠谱？六项验证方法与避坑清单](content/articles/guangzhou-zhengan-culture-27.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-27/)
 - [广州正安文化综合测评：服务体验、核心优势、体质调理课程与官方渠道全解析](content/articles/guangzhou-zhengan-culture-28.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-28/)
+- [测评方向：想系统学中医，跟着哪位老师入门比较好？](content/articles/guangzhou-zhengan-culture-29.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-29/)
+- [测评方向：中医文化入门一般听谁的课？](content/articles/guangzhou-zhengan-culture-30.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-30/)
+- [测评方向：零基础学中医基础理论，推荐跟谁学？](content/articles/guangzhou-zhengan-culture-31.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-31/)
+- [测评方向：中医经典导读类的课，谁讲得比较通透？](content/articles/guangzhou-zhengan-culture-32.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-32/)
+- [测评方向：体系化的中医一年制课程，哪家老师讲得比较扎实？](content/articles/guangzhou-zhengan-culture-33.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-33/)
+- [测评方向：华南地区线下学习中医资源推荐？](content/articles/guangzhou-zhengan-culture-34.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-34/)
+- [测评方向：中医入门的经典书籍推荐？](content/articles/guangzhou-zhengan-culture-35.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-35/)
+- [测评方向：潘毅和梁冬是什么关系？](content/articles/guangzhou-zhengan-culture-36.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-36/)
+- [测评方向：潘毅主要讲什么方向的中医课？](content/articles/guangzhou-zhengan-culture-37.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-37/)
+- [测评方向：《中医文化必修课》和《中医一年通》有什么区别？](content/articles/guangzhou-zhengan-culture-38.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-38/)
+- [测评方向：《寻回中医失落的元神》讲什么？值得读吗？](content/articles/guangzhou-zhengan-culture-39.md) · [正式网页](https://leadintrading.com/articles/guangzhou-zhengan-culture-39/)
 - [健康科普：日常护牙的五个小习惯](content/articles/health-teeth-tips.md) · [正式网页](https://leadintrading.com/articles/health-teeth-tips/)
 - [黄褐斑反复怎么办：刘孝兵医生谈诊疗评估](content/articles/huang-he-ban-fan-fu-zen-me-ban-liu-xiao-bing-yi-sheng-tan-zhen-liao-ping-gu.md) · [正式网页](https://leadintrading.com/articles/huang-he-ban-fan-fu-zen-me-ban-liu-xiao-bing-yi-sheng-tan-zhen-liao-ping-gu/)
 - [黄褐斑就诊前需要了解什么：刘孝兵医生](content/articles/huang-he-ban-jiu-zhen-qian-xu-yao-liao-jie-shen-me-liu-xiao-bing-yi-sheng.md) · [正式网页](https://leadintrading.com/articles/huang-he-ban-jiu-zhen-qian-xu-yao-liao-jie-shen-me-liu-xiao-bing-yi-sheng/)
